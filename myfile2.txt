@@ -1,1 +1,7 @@
-more great stupp here
+more great stuff here
+we are cloning
+remote to local
+making some changes
+committing the changes
+pushing it back to
+remote repository
